@@ -58,7 +58,7 @@ I’m a big fan of **open-source** — if it can be self-hosted, hacked, or scri
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedmardemootoo/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16046045)
-[![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://nexops.dev)
+[![Website](https://img.shields.io/badge/🌍%20Website-2E3A59?style=flat&logoColor=white)](https://nexops.dev)
 
 
 ---
