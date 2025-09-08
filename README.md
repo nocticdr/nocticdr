@@ -54,6 +54,14 @@ I’m a big fan of **open-source** — if it can be self-hosted, hacked, or scri
 </table>
 
 ---
+### 🌍 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedmardemootoo/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16046045)
+[![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://nexops.dev)
+
+
+---
 
 ### 📊 GitHub Stats
 
@@ -61,12 +69,19 @@ I’m a big fan of **open-source** — if it can be self-hosted, hacked, or scri
 <tr>
 <td>
   
-![Ked's GitHub stats](https://github-readme-stats.vercel.app/api?username=nocticdr&show_icons=true&theme=tokyonight)  
+![Ked's GitHub stats](https://github-readme-stats.vercel.app/api?username=nocticdr&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)  
 </td>
-
 <td>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nocticdr&layout=compact&theme=tokyonight)  
 </td>
 </tr>
 </table>
+
+### Stackoverflow Stats
+
+<!-- Light theme -->
+<!--[![Stack Overflow Flair](https://stackoverflow.com/users/flair/16046045.png)](https://stackoverflow.com/users/16046045) -->
+
+<!-- Dark theme -->
+[![Stack Overflow Flair (dark)](https://stackoverflow.com/users/flair/16046045.png?theme=dark)](https://stackoverflow.com/users/16046045)
