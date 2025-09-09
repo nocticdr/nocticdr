@@ -69,7 +69,8 @@ I’m a big fan of **open-source** — if it can be self-hosted, hacked, or scri
 <tr>
 <td>
   
-![Ked's GitHub stats](https://github-readme-stats.vercel.app/api?username=nocticdr&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)  
+![Ked's GitHub stats](https://github-readme-stats.vercel.app/api?username=nocticdr&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+<!-- &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage -->
 </td>
 <td>
   
