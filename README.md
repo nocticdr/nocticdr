@@ -29,7 +29,7 @@ I’m a big fan of **open-source** — if it can be self-hosted, hacked, or scri
 <tr>
 <td>
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)  
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
@@ -43,7 +43,7 @@ I’m a big fan of **open-source** — if it can be self-hosted, hacked, or scri
 ![n8n](https://img.shields.io/badge/n8n-1ABC9C?logo=n8n&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)  
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)  
-![Freshservice](https://img.shields.io/badge/Freshservice-7E32F7?logo=freshworks&logoColor=white)  
+![Freshservice](https://img.shields.io/badge/Freshservice-7E32F7?logo=freshservice&logoColor=white)  
 
 
 </td>
