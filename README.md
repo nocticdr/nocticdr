@@ -43,6 +43,7 @@ I’m a big fan of **open-source** — if it can be self-hosted, hacked, or scri
 ![n8n](https://img.shields.io/badge/n8n-1ABC9C?logo=n8n&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)  
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)  
+![Freshservice](https://img.shields.io/badge/Freshservice-7E32F7?logo=freshworks&logoColor=white)  
 
 
 </td>
